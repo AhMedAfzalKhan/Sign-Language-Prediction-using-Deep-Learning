@@ -11,7 +11,7 @@ Sign Language Prediction system for communicating with deaf and dumb people
 
 4-For using the pre-trained CNN model for prediction set the path for the .h5 file in the last cell code.
 
-5-Pre-trained model can be used or the same dataset can be found on kaggle.
+5-Pre-trained model which is stored in CNNmodel.h5 file can be used for prediction or the same dataset can be found on kaggle.
 
 6-The Gesture Images folder consists of the images of the gestures which are included in the dataset. There are total 37 hand sign gestures.
 
